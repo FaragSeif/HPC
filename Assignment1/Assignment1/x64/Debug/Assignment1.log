@@ -1,0 +1,15 @@
+﻿  Main.cpp
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,70): warning C4101: 'VtimeM3': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(28,40): warning C4101: 'PcC': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,28): warning C4101: 'timeM2': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,20): warning C4101: 'timeM1': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(29,27): warning C4101: 'rB': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(28,31): warning C4101: 'cBT': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,36): warning C4101: 'timeM3': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(29,40): warning C4101: 'PrC': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(29,31): warning C4101: 'rC': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,61): warning C4101: 'VtimeM2': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(43,44): warning C4101: 'timeM4': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(29,35): warning C4101: 'rcC': unreferenced local variable
+D:\IU\Spring 21\HPC\Assignment1\Assignment1\Assignment1\Main.cpp(28,36): warning C4101: 'cC': unreferenced local variable
+  Assignment1.vcxproj -> D:\IU\Spring 21\HPC\Assignment1\Assignment1\x64\Debug\Assignment1.exe
