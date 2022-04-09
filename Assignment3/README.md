@@ -1,2 +1,2 @@
 
-![grab-landing-page](https://github.com/SeifAbdElrhman/HPC/blob/master/Assignment3/Assignment3/Pi_gif/Error.png)
+![grab-landing-page](Assignment3/Assignment3/Pi_gif/Error.png)
