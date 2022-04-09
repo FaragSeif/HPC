@@ -1,0 +1,5 @@
+﻿  Assignment3.cpp
+D:\IU\Spring 21\HPC\Assignment1\Assignment3\Assignment3\Assignment3.cpp(31,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\IU\Spring 21\HPC\Assignment1\Assignment3\Assignment3\Assignment3.cpp(111,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\IU\Spring 21\HPC\Assignment1\Assignment3\Assignment3\Assignment3.cpp(116,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Assignment3.vcxproj -> D:\IU\Spring 21\HPC\Assignment1\Assignment3\x64\Debug\Assignment3.exe
